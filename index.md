@@ -11,4 +11,4 @@
 
 ## 目次
 
-- [疫学]()
+- [疫学](https://azamiya.github.io/covid-report-summary/epidemiology/)
